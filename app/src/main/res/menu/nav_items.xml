@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/myfravorite"
+            android:title="@string/my_collect" />
+        <item
+            android:id="@+id/question"
+            android:title="@string/radio_tabs_question" />
+        <item
+            android:id="@+id/left"
+            android:title="@string/left" />
+    </group>
+</menu>
