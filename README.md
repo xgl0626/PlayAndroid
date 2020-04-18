@@ -4,11 +4,11 @@ wanandroid
 
 图标
 
-![](https://github.com/xgl0626/playandroid/blob/master/app/src/main/tb-playstore.png)
+![avatar(https://github.com/xgl0626/playandroid/blob/master/app/src/main/tb-playstore.png)
 
 欢迎界面
 
-![](https://github.com/xgl0626/playandroid/blob/master/app/src/main/res/drawable/welcomeimg.png)
+![avatar](https://github.com/xgl0626/playandroid/blob/master/app/src/main/res/drawable/welcomeimg.png)
 
 #### 玩andorid功能介绍
 
