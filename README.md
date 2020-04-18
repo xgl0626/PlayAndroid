@@ -4,7 +4,7 @@ wanandroid
 
 图标
 
-![avatar(https://github.com/xgl0626/playandroid/blob/master/app/src/main/tb-playstore.png)
+![avatar](https://github.com/xgl0626/playandroid/blob/master/app/src/main/tb-playstore.png)
 
 欢迎界面
 
