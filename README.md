@@ -26,7 +26,7 @@ wanandroid
 
 mvp架构模式（由于登录注册借用的上次本地登录就没有改mvp模式。）
 
-自定义banner，通过学习网上的一个demo了解了banner原理，重写了一个adapter。
+自定义banner，通过学习网上的一个demo，理解了banner原理。
 
 自定义view圆形头像，自定义流氏布局tag，最近在学自定义view所以看了网上demo后来自己理解了一遍。
 
